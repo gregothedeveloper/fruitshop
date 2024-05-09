@@ -93,20 +93,3 @@ header {
   display: none;
   z-index: 10001;
 }
-.container {
-  position: relative;
-  width: 100%;
-  min-height: 640px;
-  display: flex;
-  align-items: center;
-  background-size: cover;
-  background-position: center;
-  background: darkgrey;
-  overflow: hidden;
-}
-.container img {
-  position: absolute;
-  width: 400px;
-  right: 200px;
-  bottom: 500px;
-}
